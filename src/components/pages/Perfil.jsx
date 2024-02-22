@@ -1,5 +1,9 @@
 function Perfil() {
-    return ( <h1>_mi self_</h1> );
+    return ( 
+        <div className="container">
+            <h1 className="text-center mb-4">login</h1>
+        </div>
+    );
 }
 
 export default Perfil;
