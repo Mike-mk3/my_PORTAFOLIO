@@ -1,5 +1,5 @@
 function Footer() {
-    return ( <h1>_footer_</h1> );
+    return ( <p>Este es un proyecto elaborado por Miguel Angel Saldaña Martinez, un Alumno de U-CAMP</p> );
 }
 
 export default Footer;
