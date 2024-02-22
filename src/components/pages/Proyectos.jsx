@@ -1,5 +1,5 @@
 function Perfil() {
-    return ( <h1>_mis pryyectos_</h1> );
+    return ( <h1>_mis proyectos_</h1> );
 }
 
 export default Perfil;
