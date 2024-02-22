@@ -1,5 +1,9 @@
 function Perfil() {
-    return ( <h1>_mis proyectos_</h1> );
+    return ( 
+        <div className="container page">
+        <h1 className="text-center mb-4">PROYECTOS</h1>
+    </div>
+     );
 }
 
 export default Perfil;

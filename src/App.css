@@ -8,7 +8,6 @@ p {
 }
 
 
-header {
-  background-color: rgb(44, 48, 51);
+header{
+  font-size: 15px !important;
 }
-
