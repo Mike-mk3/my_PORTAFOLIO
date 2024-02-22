@@ -4,10 +4,31 @@ footer {
 }
 
 p {
+  text-align: justify;
+  font-size: 18px;
+}
+
+th {
+  color:  rgb(0, 181, 221);
+}
+
+td{
+   color:  rgb(255, 255, 255);
+}
+
+
+
+h1{
+  font-size: 60px !important;
+  font-weight: bold !important;
+}
+
+
+h5{
   text-align: center;
 }
 
 
-header{
-  font-size: 15px !important;
+h2 {
+  font-size: 50px !important;
 }
