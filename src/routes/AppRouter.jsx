@@ -1,5 +1,6 @@
 import { Navigate, Route, Routes } from 'react-router-dom';
 import Perfil from '../components/pages/Perfil';
+import Proyectos from '../components/pages/Proyectos'
 
 
 
@@ -16,6 +17,7 @@ function AppRouter() {
                 <Route path="404" element={<NotFound />} />
 
                 <Route path="perfil" element={<Perfil />} />
+                <Route path="proyectos" element={<Proyectos />} />
             </Routes>
         </>
     );
