@@ -1,5 +1,5 @@
 import { Navigate, Route, Routes } from 'react-router-dom';
-import Perfil from '../pages/Perfil';
+import Perfil from '../components/pages/Perfil';
 
 
 
@@ -11,7 +11,7 @@ function AppRouter() {
     return (
         <>
             <Routes>
-                <Route path="/" element={<Home />} />
+                <Route path="/" element={<Perfil />} />
                 <Route path="*" element={<Navigate to="/404" />} />
                 <Route path="404" element={<NotFound />} />
 
