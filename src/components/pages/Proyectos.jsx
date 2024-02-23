@@ -6,7 +6,7 @@ function Perfil() {
             <br />
             <div className="row g-0 bg-body-secondary position-relative">
                 <div className="col-md-6 mb-md-0 p-md-4">
-                   <img  href="" src="https://www.3presupuestos.com/fotos/wp-content/uploads/2016/04/Restaurante-cla%CC%81sico-con-suelo-de-gres-973x649.jpg" className="w-100" alt="" />
+                   <img  href="" src="https://www.emprenderalia.com/wp-content/uploads/6_claves_primeras_ventas_online.jpg" className="w-100" alt="" />
                 </div>
                 <div className="col-md-6 p-4 ps-md-0">
                     <h2 className="mt-0 text-center">= Lading De Venta =</h2 >
@@ -30,7 +30,7 @@ function Perfil() {
             <br />
             <div className="row g-0 bg-body-secondary position-relative">
                 <div className="col-md-6 mb-md-0 p-md-4">
-                    <img src="https://www.3presupuestos.com/fotos/wp-content/uploads/2016/04/Restaurante-cla%CC%81sico-con-suelo-de-gres-973x649.jpg" className="w-100" alt="" />
+                    <img src="https://thumbs.dreamstime.com/b/to-do-list-checklist-things-83835151.jpg" className="w-100" alt="" />
                 </div>
                 <div className="col-md-6 p-4 ps-md-0">
                     <h2 className="mt-0 text-center">= App CRUD =</h2 >
@@ -38,7 +38,7 @@ function Perfil() {
 
 
                     <p className="mt-0 text-justifyc">
-                    Proyecto realizado para ordenar mis coasas pendientes. <th></th>
+                    Proyecto realizado para ordenar mis cosas pendientes. <th></th>
                         cuenta con un Apartado en el cual puedes escribir tu actividad, compra, tarea o lo que el usuario desee y necesita tener el apunte. <th></th>
                         Cuenta con las opciones de GUARDAR la actividad, EDITAR la actividad y Eliminar la actividad una vez escrita. <th></th>
                         Las actividades que el Usuario escriba y guarde para conservar ese apunte, por una manera mas practica y eficaz se guardan en el LocalStorange del propio equipo ya que esta app no esta conectada a ninguna base de datos.
@@ -54,7 +54,7 @@ function Perfil() {
             <br />
             <div className="row g-0 bg-body-secondary position-relative">
                 <div className="col-md-6 mb-md-0 p-md-4">
-                    <img src="https://www.3presupuestos.com/fotos/wp-content/uploads/2016/04/Restaurante-cla%CC%81sico-con-suelo-de-gres-973x649.jpg" className="w-100" alt="" />
+                    <img src="https://th.bing.com/th/id/R.2448b1fd936799cf6a900646fcfe9baa?rik=yuN7%2fyB2t4hU2g&pid=ImgRaw&r=0" className="w-100" alt="" />
                 </div>
                 <div className="col-md-6 p-4 ps-md-0">
                     <h2 className="mt-0 text-center">= Dashboard App =</h2 >
@@ -102,7 +102,7 @@ function Perfil() {
             <br />
             <div className="row g-0 bg-body-secondary position-relative">
                 <div className="col-md-6 mb-md-0 p-md-4">
-                    <img src="https://www.3presupuestos.com/fotos/wp-content/uploads/2016/04/Restaurante-cla%CC%81sico-con-suelo-de-gres-973x649.jpg" className="w-100" alt="" />
+                    <img src="https://www.neotamil.com/wp-content/uploads/2018/11/ShoppingCart_Laptop.jpg" className="w-100" alt="" />
                 </div>
                 <div className="col-md-6 p-4 ps-md-0">
                     <h2 className="mt-0 text-center">= Comercio Electronico =</h2 >
