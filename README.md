@@ -1,3 +1,6 @@
+ESTE ES UN PORTAFOLIO PERSONAL DONDE ME PRESENTO Y MUESTRO LOS PROYECTOS FULLSTACK QUE HE HECHO HASTA AHORA.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
