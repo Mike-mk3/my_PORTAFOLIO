@@ -24,7 +24,7 @@ function Header() {
                         </ul>
                         <div>
 
-                            <img src="https://github.com/mdo.png" width={60} height={60} className="rounded-circle" />
+                            <img src="https://i.pinimg.com/736x/6e/91/57/6e9157ee73dc21647bde41625b7018f8.jpg" width={60} height={60} className="rounded-circle" />
 
                         </div>
                     </div>
